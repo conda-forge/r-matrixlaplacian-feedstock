@@ -1,11 +1,11 @@
-About r-matrixlaplacian
-=======================
+About r-matrixlaplacian-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-matrixlaplacian-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=matrixLaplacian
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-matrixlaplacian-feedstock/blob/main/LICENSE.txt)
 
 Summary: Constructs the normalized Laplacian matrix of a square matrix, returns the eigenvectors (singular vectors) and visualization of normalized Laplacian map.
 
